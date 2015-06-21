@@ -1,0 +1,44 @@
+{
+    "INFO" : {
+        "SERVER_IP": "FIXME",
+        "SERVER": "FIXME",
+        "USER": "FIXME",
+        "PASSWORD": "FIXME",
+        "DBNAME": "FIXME"
+    },
+    "MSG": {
+        "ERROR" : {
+            "CONNECT" : "Connect failed: %s\n"
+        }
+    },
+    "CODE": {
+        "ALL": "",
+        "PAINT": "A1313",
+        "SEMI_WOOD_MORDING": "A1355",
+        "TOOLS": "A1764",
+        "TILE_BRICK": "A1318",
+        "SHEET_STICKER": "A1314",
+        "WALLPAPER": "A1315",
+        "HOMEFASHION": "A1316",
+        "FURNITURE": "A1317",
+        "LIVING_KITCHEN": "A1320",
+        "HOME_DECO" : "A2181",
+        "HOBBY": "A2266",
+        "KIDS": "A2178"
+    },
+    "NAME": {
+        "ALL": "전체",
+        "PAINT": "페인트/물감",
+        "SEMI_WOOD_MORDING": "반제품/목재/몰딩",
+        "TOOLS": "손잡이/공구",
+        "TILE_BRICK": "타일/파벽돌/바닥재",
+        "SHEET_STICKER": "시트지/스티커",
+        "WALLPAPER": "벽지/뮤럴",
+        "HOMEFASHION": "침구/커튼/홈패션",
+        "FURNITURE": "가구",
+        "LIVING_KITCHEN": "생활/주방/욕실",
+        "HOME_DECO" : "홈데코/소품/조명",
+        "HOBBY": "문구/취미",
+        "KIDS": "유아"
+    }
+}
