@@ -85,6 +85,10 @@ module.exports = function (grunt) {
                 '/app/styles',
                 connect.static('./app/styles')
               ),
+              connect().use(
+                '/lib',
+                connect.static('./lib')
+              ),
               connect.static(appConfig.app)
             ];
           }
@@ -156,7 +160,7 @@ module.exports = function (grunt) {
       },
       server: {
         options: {
-          map: true,
+          map: true
         },
         files: [{
           expand: true,
